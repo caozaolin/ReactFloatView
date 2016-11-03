@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "D:\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 210
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 416
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 521
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 628
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 737
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 846
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 955
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1064
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1173
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1280
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1383
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1502
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -278,7 +278,7 @@
                     "endOffset": 1657
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1812
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -319,7 +319,7 @@
                     "endOffset": 1917
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -338,7 +338,7 @@
                     "endOffset": 2038
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -357,7 +357,7 @@
                     "endOffset": 2139
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 2286
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2427
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -418,7 +418,7 @@
                     "endOffset": 2530
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -437,7 +437,7 @@
                     "endOffset": 2649
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -456,7 +456,7 @@
                     "endOffset": 2756
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -475,7 +475,7 @@
                     "endOffset": 2859
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -495,7 +495,7 @@
                     "endOffset": 3006
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3161
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3332
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3481
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3646
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3803
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 3954
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -641,7 +641,7 @@
                     "endOffset": 4073
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -661,7 +661,7 @@
                     "endOffset": 4222
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4371
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -702,7 +702,7 @@
                     "endOffset": 4483
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -721,7 +721,7 @@
                     "endOffset": 4630
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -741,7 +741,7 @@
                     "endOffset": 4783
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -762,7 +762,7 @@
                     "endOffset": 4930
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -782,7 +782,7 @@
                     "endOffset": 5005
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -801,7 +801,7 @@
                     "endOffset": 5094
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -820,7 +820,7 @@
                     "endOffset": 5181
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -839,7 +839,7 @@
                     "endOffset": 5282
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -859,7 +859,7 @@
                     "endOffset": 8524
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -880,7 +880,7 @@
                     "endOffset": 8710
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 127,
                         "startColumn": 4,
@@ -901,7 +901,7 @@
                     "endOffset": 11964
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 4,
@@ -922,7 +922,7 @@
                     "endOffset": 12162
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -943,7 +943,7 @@
                     "endOffset": 12285
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -964,7 +964,7 @@
                     "endOffset": 12408
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -985,7 +985,7 @@
                     "endOffset": 12521
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1006,7 +1006,7 @@
                     "endOffset": 12704
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1027,7 +1027,7 @@
                     "endOffset": 12835
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -1048,7 +1048,7 @@
                     "endOffset": 13036
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1068,7 +1068,7 @@
                     "endOffset": 13125
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -1087,7 +1087,7 @@
                     "endOffset": 13236
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1106,7 +1106,7 @@
                     "endOffset": 13363
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1125,7 +1125,7 @@
                     "endOffset": 13464
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1144,7 +1144,7 @@
                     "endOffset": 13559
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1163,7 +1163,7 @@
                     "endOffset": 13682
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1182,7 +1182,7 @@
                     "endOffset": 13811
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
@@ -1201,7 +1201,7 @@
                     "endOffset": 13928
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1221,7 +1221,7 @@
                     "endOffset": 14105
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1241,7 +1241,7 @@
                     "endOffset": 14204
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1261,7 +1261,7 @@
                     "endOffset": 14339
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1282,7 +1282,7 @@
                     "endOffset": 14482
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 14617
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 14736
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -1345,7 +1345,7 @@
                     "endOffset": 14937
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 15056
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1386,7 +1386,7 @@
                     "endOffset": 15149
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1405,7 +1405,7 @@
                     "endOffset": 15260
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1424,7 +1424,7 @@
                     "endOffset": 15316
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
@@ -1444,7 +1444,7 @@
                     "endOffset": 15423
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 224,
                         "startColumn": 4,
@@ -1465,7 +1465,7 @@
                     "endOffset": 15618
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -1486,7 +1486,7 @@
                     "endOffset": 15729
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1507,7 +1507,7 @@
                     "endOffset": 15862
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -1527,7 +1527,7 @@
                     "endOffset": 15957
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -1546,7 +1546,7 @@
                     "endOffset": 16048
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 235,
                         "startColumn": 4,
@@ -1565,7 +1565,7 @@
                     "endOffset": 16139
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 4,
@@ -1584,7 +1584,7 @@
                     "endOffset": 16256
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -1604,7 +1604,7 @@
                     "endOffset": 16395
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1625,7 +1625,7 @@
                     "endOffset": 16748
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -1646,7 +1646,7 @@
                     "endOffset": 17113
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -1667,7 +1667,7 @@
                     "endOffset": 17793
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -1687,7 +1687,7 @@
                     "endOffset": 17850
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -1706,7 +1706,7 @@
                     "endOffset": 17908
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
