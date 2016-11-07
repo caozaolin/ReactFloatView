@@ -31,6 +31,8 @@ ReactFloatView的优点：
 ![image](https://github.com/caozaolin/ReactFloatView/blob/master/xiaoguotu.gif)
 
 
+下一版本更新预测，将提供类库的形式，供开发者依赖使用，到时则不需要继承ReactFloatViewActivity！
+
 如若有问题，请联系我：
 
 qq：649959008
