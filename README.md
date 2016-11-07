@@ -26,15 +26,23 @@ ReactFloatView的优点：
 
 3.使用简单，只需要在主activity里面继承ReactFloatViewActivity
 
-好，不在啰嗦，请各位开发者观看一下动态效果图：
+请各位开发者观看一下动态效果图：
 
 ![image](https://github.com/caozaolin/ReactFloatView/blob/master/xiaoguotu.gif)
 
 
-下一版本更新预测，将提供类库的形式，供开发者依赖使用，到时则不需要继承ReactFloatViewActivity！
+工程目录结构如下：app和libary-reactfloatview
+
+libary-reactfloatview：悬浮窗类库，里面包含了实现逻辑以及资源图片等等
+
+app：一个悬浮窗展示demo
+
+使用如下：首先在你的工程项目中，依赖libary-reactfloatview；其次在主要activity中，继承ReactFloatViewActivity，就是这么简单！！
+
+下一版本更新预测，取消继承ReactFloatViewActivity的使用方式，改为调用调用代码的方式调用，更加方便快捷！
 
 如若有问题，请联系我：
 
 qq：649959008
-
+qq群：246231638
 邮箱：caozaolin@163.com
