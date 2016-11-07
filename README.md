@@ -31,7 +31,8 @@ ReactFloatView的优点：
 ![image](https://github.com/caozaolin/ReactFloatView/blob/master/xiaoguotu.gif)
 
 
-如若有问题，请联系：
+如若有问题，请联系我：
 
 qq：649959008
+
 邮箱：caozaolin@163.com
