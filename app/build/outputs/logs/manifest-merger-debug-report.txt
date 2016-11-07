@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:2:1-20:12
 	xmlns:android
 		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -13,12 +13,17 @@ ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:2:1-22:12
 	android:versionCode
 		INJECTED from D:\ReactFloatView\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ReactFloatView\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:5:5-77
-	android:name
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:5:22-75
 application
-ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:7:5-20:19
+ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [ReactFloatView:libary-reactfloatview:unspecified] D:\ReactFloatView\app\build\intermediates\exploded-aar\ReactFloatView\libary-reactfloatview\unspecified\AndroidManifest.xml:13:5-17:19
 MERGED from [com.android.support:appcompat-v7:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
@@ -28,31 +33,41 @@ MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\
 MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:8:9-41
 	android:allowBackup
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.caozaolin.reactfloatview.MainActivity
-ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from D:\ReactFloatView\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from D:\ReactFloatView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [ReactFloatView:libary-reactfloatview:unspecified] D:\ReactFloatView\app\build\intermediates\exploded-aar\ReactFloatView\libary-reactfloatview\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:23.1.0] D:\ReactFloatView\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:20:5-43
@@ -68,3 +83,7 @@ MERGED from [com.android.support:support-v4:23.1.1] D:\ReactFloatView\app\build\
 	android:minSdkVersion
 		INJECTED from D:\ReactFloatView\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ReactFloatView\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [ReactFloatView:libary-reactfloatview:unspecified] D:\ReactFloatView\app\build\intermediates\exploded-aar\ReactFloatView\libary-reactfloatview\unspecified\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [ReactFloatView:libary-reactfloatview:unspecified] D:\ReactFloatView\app\build\intermediates\exploded-aar\ReactFloatView\libary-reactfloatview\unspecified\AndroidManifest.xml:11:22-75

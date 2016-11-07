@@ -2,11 +2,9 @@ package com.caozaolin.reactfloatview;
 
 import android.os.Bundle;
 
-import com.caozaolin.reactfloatview.view.GameAssistApi;
+import com.caozaolin.mreactfloatview.activity.ReactFloatViewActivity;
 
 public class MainActivity extends ReactFloatViewActivity {
-
-    private GameAssistApi mGameAssistApi;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

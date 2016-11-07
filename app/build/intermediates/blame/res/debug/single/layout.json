@@ -25,7 +25,7 @@
     },
     {
         "merged": "D:\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uac_gameassist_float_small.xml",
-        "source": "D:\\ReactFloatView\\app\\src\\main\\res\\layout\\uac_gameassist_float_small.xml"
+        "source": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\ReactFloatView\\libary-reactfloatview\\unspecified\\res\\layout\\uac_gameassist_float_small.xml"
     },
     {
         "merged": "D:\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -73,7 +73,7 @@
     },
     {
         "merged": "D:\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uac_gameassist_float_brand.xml",
-        "source": "D:\\ReactFloatView\\app\\src\\main\\res\\layout\\uac_gameassist_float_brand.xml"
+        "source": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\ReactFloatView\\libary-reactfloatview\\unspecified\\res\\layout\\uac_gameassist_float_brand.xml"
     },
     {
         "merged": "D:\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
@@ -189,7 +189,7 @@
     },
     {
         "merged": "D:\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uac_gameassist_float_big.xml",
-        "source": "D:\\ReactFloatView\\app\\src\\main\\res\\layout\\uac_gameassist_float_big.xml"
+        "source": "D:\\ReactFloatView\\app\\build\\intermediates\\exploded-aar\\ReactFloatView\\libary-reactfloatview\\unspecified\\res\\layout\\uac_gameassist_float_big.xml"
     },
     {
         "merged": "D:\\ReactFloatView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
