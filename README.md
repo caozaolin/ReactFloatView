@@ -1,7 +1,9 @@
 # ReactFloatView
 自定义悬浮窗--FloatView
 
-还在为悬浮窗的实现而发愁吗？还在为头疼的系统版本适应而发愁吗？请使用ReactFloatView！！
+2017年 3月28日，2.0版本ReactFloatView推出！
+
+还在为悬浮窗的实现而发愁吗？还在为头疼的系统版本适应而发愁吗？请使用ReactFloatView！
 
 ReactFloatView的优点：
 
@@ -9,7 +11,7 @@ ReactFloatView的优点：
 
 2.完美适配4.0或者更高版本的android系统，当运行环境是6.0以上的系统时候，内置的权限模块将会发起权限申请。
 
-3.使用简单，只需要在主activity里面继承ReactFloatViewActivity
+3.2.0版本相对于1.0版本，使用上更加简单便利，权限模块、悬浮窗各个功能模块集成在ZSDK类中--（废弃了1.0版本直接继承ReactFloatViewActivity的做法，改为调用ZSDK类中各个方法实现）。
 
 请各位开发者观看一下动态效果图：
 
@@ -44,11 +46,11 @@ app：一个悬浮窗展示demo
 
 <img src='https://github.com/caozaolin/ReactFloatView/blob/master/shiyong2.png'/>
 
-其次在主要activity中，继承ReactFloatViewActivity；
+其次在主要activity中，在相关生命周期中，调用ZSDK类相关方法；
 
 <img src='https://github.com/caozaolin/ReactFloatView/blob/master/shiyong1.png'/>
 
-下一版本更新预测，取消继承ReactFloatViewActivity的使用方式，改为调用代码的方式调用，更加方便快捷！
+下一版本3.0更新预测，配合网络交互，通过网络返回json数据，显示相应的item，而非目前2.0版本写死4个item！
 
 如若有问题，请联系我：
 
