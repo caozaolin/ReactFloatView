@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.caozaolin.reactfloatview"
-        minSdkVersion 14
+        minSdkVersion 23
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

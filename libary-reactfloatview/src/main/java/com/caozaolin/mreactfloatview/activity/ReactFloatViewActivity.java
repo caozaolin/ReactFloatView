@@ -17,11 +17,8 @@ import com.caozaolin.mreactfloatview.view.GameAssistApi;
 
 
 /**
- * Created by caozaolin on 2016/11/1 0001.
- * It was deprecated! We should use ZSDK.
- * 该类已经被废弃，相关功能已经转移至ZSDK中，开发者可以很方便调用相关方法，实现功能
+ * Created by Administrator on 2016/11/1 0001.
  */
-@Deprecated
 public class ReactFloatViewActivity extends AppCompatActivity {
 
     private static final int REQUEST_CODE = 1;
@@ -84,7 +81,7 @@ public class ReactFloatViewActivity extends AppCompatActivity {
         } else {
             // 如果是api23以下版本，不需要申请权限
             Toast.makeText(this, "不需要申请权限", Toast.LENGTH_SHORT).show();
-            // ZSDK.getInstance().init(this);
+            ZSDK.getInstance().init(this);
             if(mGameAssistApi == null){
                 mGameAssistApi = new GameAssistApi(this);
             }
