@@ -48,7 +48,7 @@ app：一个悬浮窗展示demo
 
 其次在主要activity中，在相关生命周期中，调用ZSDK类相关方法；
 
-<img src='https://github.com/caozaolin/ReactFloatView/blob/master/shiyong1.png'/>
+<img src='https://github.com/caozaolin/ReactFloatView/blob/master/shiyong3.png'/>
 
 下一版本3.0更新预测，配合网络交互，通过网络返回json数据，显示相应的item，而非目前2.0版本写死4个item！
 
